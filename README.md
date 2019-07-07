@@ -4,6 +4,8 @@ This is a simple little interface board to connect a 12V arcade coin mechanism t
 
 ![Board Front](img/board-front.png)
 ![Board Back](img/board-back.png)
+![Installed 1](img/installed.jpg)
+![Installed 2](img/installed2.jpg)
 
 # Parts Needed
 
