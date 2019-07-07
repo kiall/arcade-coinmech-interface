@@ -2,12 +2,22 @@
 
 This is a simple little interface board to connect a 12V arcade coin mechanism to a 5V interface board (e.g. the Ultimarc I-Pac). The board supports connecting 2x 12V coin mechanism, and 1x 12V Coin Counter.
 
+# So - Where to get one?
+
+I don't sell these! The design is Open Source. I upload my designs to OSH Park and have them manafacture the board for me, I've included a link below.
+
+[![Order from OSH Park](https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png)](https://oshpark.com/shared_projects/wxe3zO7U)
+
+(I do not earn comission etc from OSH Park if you order)
+
+# But, What does it look like?
+
 ![Board Front](img/board-front.png)
 ![Board Back](img/board-back.png)
 ![Installed 1](img/installed.jpg)
 ![Installed 2](img/installed2.jpg)
 
-# Parts Needed
+# What parts will I need?
 
 1. The PCB itself (See below)
 2. 2x JST-XH 4 pin sockets
@@ -17,7 +27,7 @@ This is a simple little interface board to connect a 12V arcade coin mechanism t
 
 I use JST-XH sockets everywhere, but any socket with a 2.54mm pitch and approximatly the same outside will do just fine.
 
-# Assembly
+# How do I assemble it?
 
 1. Place the 2x Zener Diodes into their spots (D1 and D2) and solder in place. Ensure the stripe on the diode is on the correct side - match the orientation shown on the PCB itself.
 2. Place the JST-XH connectors.
@@ -26,7 +36,7 @@ I use JST-XH sockets everywhere, but any socket with a 2.54mm pitch and approxim
    3. Solder all the pins.
 3. Your done assembling the board!
 
-# Wiring
+# What wiring is needed?
 
 ## Coin Mechanism 1 & 2 Sockets - J2 & J3
 
@@ -52,11 +62,3 @@ I use JST-XH sockets everywhere, but any socket with a 2.54mm pitch and approxim
 
 * Pin 1 (Square Pad): 12V from Power Supply
 * Pin 2: Ground from Power Supply
-
-# Where to get one
-
-I don't sell these! The design is Open Source. I upload my designs to OSH Park and have them manafacture the board for me, I've included a link below.
-
-[![Order from OSH Park](https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png)](https://oshpark.com/shared_projects/wxe3zO7U)
-
-(I do not earn comission etc from OSH Park if you order)
