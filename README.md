@@ -2,6 +2,9 @@
 
 This is a simple little interface board to connect a 12V arcade coin mechanism to a 5V interface board (e.g. the Ultimarc I-Pac). The board supports connecting 2x 12V coin mechanism, and 1x 12V Coin Counter.
 
+![Board Front](img/board-front.png)
+![Board Back](img/board-back.png)
+
 # Parts Needed
 
 1. The PCB itself (See below)
