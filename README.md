@@ -59,3 +59,4 @@ I don't sell these! The design is Open Source. I upload my designs to OSH Park a
 
 [![Order from OSH Park](https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png)](https://oshpark.com/shared_projects/wxe3zO7U)
 
+(I do not earn comission etc from OSH Park if you order)
