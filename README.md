@@ -16,9 +16,9 @@ I use JST-XH sockets everywhere, but any socket with a 2.54mm pitch and approxim
 
 1. Place the 2x Zener Diodes into their spots (D1 and D2) and solder in place. Ensure the stripe on the diode is on the correct side - match the orientation shown on the PCB itself.
 2. Place the JST-XH connectors.
-  1. Pay attention to the orientation, the markings on the PCB show which direction the socket should go, look at the slots in the connector. If using a different connector type, just be consistent in which way you orient the connectors!
-  2. Place all connectors at once, then carefully turn the board upside down and allow it to rest on the connectors.
-  3. Solder all the pins.
+   1. Pay attention to the orientation, the markings on the PCB show which direction the socket should go, look at the slots in the connector. If using a different connector type, just be consistent in which way you orient the connectors!
+   2. Place all connectors at once, then carefully turn the board upside down and allow it to rest on the connectors.
+   3. Solder all the pins.
 3. Your done assembling the board!
 
 # Wiring
