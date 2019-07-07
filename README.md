@@ -29,7 +29,6 @@ I use JST-XH sockets everywhere, but any socket with a 2.54mm pitch and approxim
 * Pin 2: Coin Mech "Ground" wire.
 * Pin 2: Coin Mech "Coin" wire.
 * Pin 4: Coin Mech "12V" wire.
-# Where to get one?
 
 ## Counter Socket - J5
 
